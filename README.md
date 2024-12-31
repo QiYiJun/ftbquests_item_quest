@@ -52,11 +52,11 @@
 
   ![itemlist1](./images/height_version_or_filter_2.png)</br>
 
-  <h2>3. 创建一个“物品”任务，列出模式切换至“物品栏”，选择刚才调整好的过滤器</h2>
+  <h2>3. 创建一个“物品”任务</h2>
 
   ![itemlist1](./images/height_version_or_filter_3.png)</br>
 
-  <h2>4. 点击查看有效物品，查看当前任务匹配的物品，确保是你想要的</h2>
+  <h2>4. 列出模式切换至“物品栏”，选择刚才调整好的过滤器</h2>
 
   ![itemlist1](./images/height_version_or_filter_4.png)</br>
 
